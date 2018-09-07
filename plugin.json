@@ -1,0 +1,8 @@
+{
+      "name":"ArtikelTab",
+      "description":"Anzeige von Futtermitteldeklaration",
+      "namespace":"ArtikelTab",
+      "author":"Janik Lelle",
+      "type":"template",
+      "serviceProvider":"ArtikelTab\\Providers\\ArtikelTabServiceProvider"
+}
